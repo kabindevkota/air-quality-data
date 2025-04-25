@@ -1,0 +1,12 @@
+# API keys and environment
+.env
+
+# Data files and outputs
+data/*.json
+data/*.jsonl
+data/*.txt
+data/data_by_sensor/
+
+# Python cache
+__pycache__/
+*.pyc

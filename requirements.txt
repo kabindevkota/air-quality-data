@@ -1,0 +1,15 @@
+# ETL & Data Processing
+pandas
+numpy
+requests
+python-dotenv
+
+# MongoDB
+pymongo
+
+# Airflow (core only, adjust for executor/scheduler if needed)
+apache-airflow
+
+# Dashboard
+dash
+plotly
