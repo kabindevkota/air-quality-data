@@ -130,7 +130,3 @@ Grand Valley State University
 
 This project is open-source and available under the MIT License.
 ```
-
----
-
-You're all set 🎉  
