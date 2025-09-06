@@ -1,6 +1,3 @@
-## 📄 `README.md`
-
-```md
 # 🌍 US Air Quality Monitoring Pipeline
 
 This project extracts, transforms, stores, and visualizes air quality data for the United States using the [OpenAQ API](https://docs.openaq.org/). It is designed for environmental data analysis and features:
@@ -12,11 +9,10 @@ This project extracts, transforms, stores, and visualizes air quality data for t
 
 Developed by **Kabin Devkota** as part of a data engineering project.
 
----
+
 
 ## 🗂️ Project Structure
 
-```plaintext
 air_quality_project/
 ├── data/                    # Raw and structured data files
 ├── etl/                     # Historical extraction, transformation, loading
@@ -25,9 +21,7 @@ air_quality_project/
 ├── requirements.txt         # Python dependencies
 ├── .env.example             # Required environment variables
 └── README.md                # You're here
-```
 
----
 
 ## 🚀 Getting Started
 
