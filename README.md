@@ -12,7 +12,7 @@ Developed by **Kabin Devkota** as part of a data engineering project.
 
 
 ## 🗂️ Project Structure
-
+```plaintext
 air_quality_project/
 ├── data/                    # Raw and structured data files
 ├── etl/                     # Historical extraction, transformation, loading
@@ -21,7 +21,7 @@ air_quality_project/
 ├── requirements.txt         # Python dependencies
 ├── .env.example             # Required environment variables
 └── README.md                # You're here
-
+```
 
 ## 🚀 Getting Started
 
